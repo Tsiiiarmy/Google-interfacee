@@ -1,0 +1,37 @@
+.main{
+    margin-top:100px;
+    text-align: center;
+}
+.logo{
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputu{
+    display: block;
+    width: 400px;
+    line-height: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn{
+    width: fit-content;
+    margin-top: 20px;
+    font-size: 14px;
+    background: #dfe1e5;
+    border:none;
+    border-radius: 5px;
+    padding-top:8px ;
+    padding-bottom:8px ;
+    padding-right:16px ;
+    padding-left: 16px;
+
+}
